@@ -28,6 +28,7 @@ I design the following classifiers:
 ### 3. Naïve Bayes     
 ### 4. Decision Trees 
 ### 5. Support Vector Machines  
-For each classifier,I try to find the optimal hyperparameters. 
-You also compare the performance of all classifiers using different metrics such as the 
-precision, recall, F1-score, and ROC/AUC curves. 
+
+##### For each classifier,I try to find the optimal hyperparameters. 
+##### I also compare the performance of all classifiers using different metrics such as the 
+##### precision, recall, F1-score, and ROC/AUC curves. 
